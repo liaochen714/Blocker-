@@ -1,10 +1,6 @@
 # 🛡️ Blocker+ 網癮救贖系統
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Language-Kotlin%20%2F%20Compose-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/AI--Assisted-Gemini%20Integrated-blue?style=for-the-badge&logo=google-gemini&logoColor=white" alt="AI-Assisted" />
-</p>
+
 
 ---
 
